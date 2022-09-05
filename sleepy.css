@@ -2000,6 +2000,9 @@ button{
   .detail-image-overText::after , .detail-image-overText::before{
     width: 100px;
   }
+  .submit{
+    padding: 18px 30px;
+  }
   .detail-image-item {
     padding-left: 10px;
 }
